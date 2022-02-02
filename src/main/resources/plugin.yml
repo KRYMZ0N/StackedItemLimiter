@@ -1,0 +1,7 @@
+name: StackedItemLimiter
+version: '${project.version}'
+main: me.krymz0n.stackeditemlimiter.Main
+api-version: 1.16
+authors: [ KRYMZ0N ]
+description: A Stacked item limiter plugin with a config to disable many different items
+website: www.3b3t.me
